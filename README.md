@@ -9,3 +9,5 @@ Express, Passport, Mongoose, EJS.
 Запуск проекта   $ npm start
 
 Запуск проекта с Nodemon   $ npm run dev
+
+Открыть в браузере адрес localhost:5000
