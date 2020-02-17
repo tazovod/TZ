@@ -4,7 +4,7 @@
 Express, Passport, Mongoose, EJS.
 
 	        Запуск
-установить компоненты командой  $ npm install
+Установить компоненты командой  $ npm install
 
 Запуск проекта   $ npm start
 
